@@ -1118,7 +1118,7 @@
   \global\@ACM@journal@bibstripfalse
 }
 \if@ACM@journal\else
-\acmConference[tinyML Research Symposium'22]{tinyML Research Symposium}{March 2022}{San Jose, CA}%
+\acmConference[tinyML Research Symposium'22]{tinyML Research Symposium}{March 2022}{Burlingame, CA}%
 \fi
 \def\acmBooktitle#1{\gdef\@acmBooktitle{#1}}
 \acmBooktitle{Proceedings of \acmConference@name
